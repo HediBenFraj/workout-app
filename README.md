@@ -8,4 +8,5 @@ to make it work, follow these simple steps :
         3- run "npm start" to start the clien side (front end server).
         4- in another command prompt navigate to the "backend" sub-foler once there run this command "nodemon server".
 and voila everything should work perfectly in your browser.
-        
+
+In case you encounter problems, run "npm install cors mongoose" in the backend diroctory.
