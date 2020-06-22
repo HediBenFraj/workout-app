@@ -1,5 +1,5 @@
 This is a MERN stack web application : MongoDb ( Mongoose for the database) Express(Node JS) for the backend set up and ReactjS for the front end.
-This application is just a proof of concept using CRUD. 
+This application is just a proof of concept using CRUD operations. 
 You can create multiple users and associate workout exercices to them.
 
 to make it work, follow these simple steps :
